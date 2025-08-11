@@ -3,7 +3,7 @@
 This notebook demonstrates how to:
 - Set up and connect to Pinecone vector database with flexible namespace support
 - Fetch and process vectors from default, specific, or all namespaces
-- Create interactive visualizations using the Embedding Atlas
+- Create interactive visualizations using the [**Embedding Atlas**](https://apple.github.io/embedding-atlas/)
 - Compute text projections and display embedding relationships
 - Handle large-scale vector operations with batch processing
 
@@ -68,7 +68,7 @@ MAX_COUNT=1000               # Set to integer or leave unset/set to None for all
 
 - **No vectors found**: Verify your index contains data and namespace configuration is correct
 - **Connection errors**: Check your API key and network connectivity
-- **Widget not loading**: Ensure you have the latest version of `embedding_atlas` installed
+- **Widget not loading**: Ensure you have the latest version of `embedding-atlas` installed
 - **Memory issues**: Reduce `MAX_COUNT` or process data in smaller batches
 
 Ready to explore your vector database? Let's get started! 🚀
