@@ -50,7 +50,7 @@ MAX_COUNT=1000               # Set to integer or leave unset/set to None for all
 ### Interactive Visualizations
 - Table view of vector metadata
 - Charts and statistics
-- 2D/3D embedding projections
+- 2D embedding projections
 - Text-based similarity exploration
 
 ## Important Notes
